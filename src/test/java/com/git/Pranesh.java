@@ -1,9 +1,9 @@
 package com.git;
 
-public class Sample {
+public class Pranesh {
 
 	public static void main(String[] args) {
-		System.out.println("this class 1");
+		// TODO Auto-generated method stub
 
 	}
 
