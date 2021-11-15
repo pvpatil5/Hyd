@@ -1,9 +1,9 @@
 package com.git;
 
-public class Sample2 {
+public class yesh {
 
 	public static void main(String[] args) {
-		System.out.println("this is class 2 ");
+		System.out.println("hi this is yeshwanth");
 
 	}
 
